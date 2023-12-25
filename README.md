@@ -4,19 +4,18 @@ Speeding up translation with automation
 
 <img src="https://media2.giphy.com/media/FVZoYkTx3cuVCkEavD/giphy.gif" style="width: 619px; ">
 
-## Step 1: Install Python
+## Step 1
 
-Ensure that you have Python installed. If not, you can install it using Homebrew:
+Install Python `$ brew install python`
 
-Enter this into the terminal: `$ brew install python`
+## Step 2
 
-## Step 2: Install Required Python Packages
-
-Enter this into the terminal: `$ pip3 install googletrans==4.0.0-rc1`
+Install argparse Package `$ pip3 install argparse`
+Install requests Package `pip3 install requests`
+Install Sexy Progress Bar Package `$ $ pip3 install progressbar2`
+Install Google Translate Package `$ pip3 install googletrans==4.0.0-rc1`
 
 ## Step 3: In the Python code
-
-Replace 'your_target_language' with the language code you want to translate to (e.g., 'es' for Spanish).
 
 ## Note:
 
