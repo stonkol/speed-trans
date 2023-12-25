@@ -1,6 +1,6 @@
 # speed-trans
 sppeding up translation with automation
-<img src="https://giphy.com/embed/FVZoYkTx3cuVCkEavD" width="480">
+<img src="https://media2.giphy.com/media/FVZoYkTx3cuVCkEavD/giphy.gif" style="width: 500px; height: 227.083333px;">
 
 ### Step 1: Install Python (macOS)
 Ensure that you have Python installed. If not, you can install it using Homebrew:
