@@ -17,10 +17,9 @@ Install Google Translate Package `$ pip3 install googletrans==4.0.0-rc1`
 
 ## Step 3: In the Python code
 
-## Note:
-
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI5aHBvbTQ3MHhpZGFuenB6dG4wODBpeG1ibmFsZTFrMnRuYmg1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOxeQTPonpZHM5uKI/giphy.gif" style="width: 619px;">
 
 Ensure that the file you want to translate (your_input_file.txt) is in the same directory as your script or provide the correct path.
 
-Using automated translation have limitations, and it is recommended to review it manually.
+> [!WARNING]
+> Using automated translation have limitations, and it is recommended to review it manually.
