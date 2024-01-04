@@ -4,16 +4,16 @@ Speeding up translation with automation
 
 <img src="https://media2.giphy.com/media/FVZoYkTx3cuVCkEavD/giphy.gif" style="width: 619px; ">
 
-## Step 1
+## 1. Install Python
 
-Install Python `$ brew install python`
+1. Install Python `$ brew install python`
 
-## Step 2
+## 2. Install Packages
 
-Install argparse Package `$ pip3 install argparse`
-Install requests Package `pip3 install requests`
-Install Sexy Progress Bar Package `$ $ pip3 install progressbar2`
-Install Google Translate Package `$ pip3 install googletrans==4.0.0-rc1`
+1. Install argparse Package `$ pip3 install argparse`
+1. Install requests Package `$ pip3 install requests`
+1. Install Sexy Progress Bar Package `$ $ pip3 install progressbar2`
+1. Install Google Translate Package `$ pip3 install googletrans==4.0.0-rc1`
 
 ## Step 3: In the Python code
 
